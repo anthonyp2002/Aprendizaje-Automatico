@@ -1,0 +1,4 @@
+/home/apulla/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/apulla/Escritorio/projectAp2/openCV/.cxx/Debug/2u51x356/x86_64 \
+  opencv_jni_shared

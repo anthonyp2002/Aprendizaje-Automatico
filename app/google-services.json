@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157892960063",
+    "project_id": "aprendizaa-ea715",
+    "storage_bucket": "aprendizaa-ea715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157892960063:android:4ad2f72ed7b3d495907d8a",
+        "android_client_info": {
+          "package_name": "com.example.projectap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Vt5vki_GrPbNxdhqg1aB9v2abXh7AIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
